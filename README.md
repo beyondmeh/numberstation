@@ -3,10 +3,9 @@
 > Decrypt Bitmessage number spam
 
 For those that are unfamiliar with it, [Bitmessage](https://bitmessage.org/wiki/Main_Page) 
-is a P2P encrypted messager similar to Tox, TorChat, Ricochet, etc.
-
-One of the annoyances for new users are reoccurring "number spam" messages. 
-These scripts can decode and make those messages.
+is a P2P encrypted messager similar to Tox, TorChat, Ricochet, etc. One of the 
+annoyances for new users are reoccurring "number spam" messages. These scripts 
+can decode and make those messages.
 
 
 ## Usage
@@ -25,9 +24,9 @@ spammed to various Bitmessage chans. The sender's address was always different,
 making blocking difficult. The subject was typically a MD5 hash with the message 
 looking similar to the following:
 
-> 94445 69192 93958 86475 90202 43920 88888 51721 61057 91423 
-> 96933 15468 39109 83028 64371 98156 78594 78587 34576 26908 
-> 76175 48800 98662 20945 49004 50009 10896 93713 68187 92822 
+> 94445 69192 93958 86475 90202 43920 88888 51721 61057 91423  
+> 96933 15468 39109 83028 64371 98156 78594 78587 34576 26908  
+> 76175 48800 98662 20945 49004 50009 10896 93713 68187 92822  
 > 15972 86723 
 
 Several weeks later, a message in broken Russian seemed to hint how to decode 
@@ -45,9 +44,6 @@ scripts that can encode and decode similar messages.
 
 ## Feedback
 I haven't used Bitmessage in a while, but you can contact me by [email](mailto:timothykeith@gmail.com).
-
-
-### PGP Key
 For the privacy conscious, feel free to encrypt any messages using my 
 [PGP key](http://pgp.mit.edu/pks/lookup?op=vindex&fingerprint=on&search=0xF4F4A135C022EE12):
 > 4135 C593 1D89 368E 7F32 C8ED F4F4 A135 C022 EE12
